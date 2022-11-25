@@ -1,8 +1,3 @@
-//this is based off of "https://www.youtube.com/watch?v=lgyszZhAZOI&t=1859s&ab_channel=LearnWebCode"
-// There are also ways to download photos, click buttons, and submit forms.
-
-
-//pulls in puppeteer package
 const puppeteer = require('puppeteer')
 
 //idk what this does exactly
